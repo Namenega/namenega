@@ -7,7 +7,8 @@
 
 ### Media:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/nathan-menegalli-16a501223/" />][LinkedIn]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdeliver.net/npm/
+simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
 <br />
 
