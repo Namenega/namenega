@@ -20,6 +20,7 @@
 <img align="left" alt="C" width="27px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png" />
 <img align="left" alt="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Docker" width="27px" src="https://cdn.iconscout.com/icon/free/png-256/docker-2752207-2285024.png" />
+<img align="left" alt="Kubernetes" width="27px" src="https://miro.medium.com/max/800/1*WpKHLIDsJZgWKJe-SkOtcg.png" />
 <br />
 <br />
 - More to come !
