@@ -7,8 +7,7 @@
 
 ### Media:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdeliver.net/npm/
-simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
 <br />
 
