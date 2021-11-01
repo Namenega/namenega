@@ -19,7 +19,7 @@
 
 ### Languages:
 
-<img height="27" width="27" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/C.svg" />
+<img height="27" width="27" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" />
 <!-- <img align="left" alt="C" width="27px" src="" /> -->
 <!-- <img align="left" alt="C" width="27px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png" /> -->
 <img align="left" alt="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" />
