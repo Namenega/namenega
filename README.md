@@ -13,6 +13,8 @@
 
 <br />
 
+<!-- Languages && Tools START-->
+
 ## Languages and Tools:
 
 ### Languages:
@@ -32,6 +34,7 @@
 <img align="left" alt="Linux" width="22px" src="https://www.qcmquiz.com/images/Linux_logo.png" />
 <img align="left" alt="Apple" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Apple_logo_dark_grey.svg/1724px-Apple_logo_dark_grey.svg.png" />
 <br />
+<!-- Languages && Tools END -->
 <br />
 <br />
 
