@@ -1,6 +1,6 @@
 ### Hello there, I'm Nathan aka Namenega
 
-## I'm a Student at [s19], part of the <img height="27" width="27" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/42.svg" /> Network
+## I'm a Student at [s19], part of the <img height="27" width="27" src="https://avatars.githubusercontent.com/u/63114141?s=200&v=4" /> Network
 🔸 I'm currently learning C and C++. <br />
 🔸 I have some bases on Docker and K8's. <br />
 🔸 I'm aiming to learn Python, PHP and Unity in 2022. <br />
