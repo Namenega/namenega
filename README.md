@@ -1,6 +1,6 @@
 ### Hello there, I'm Nathan aka Namenega
 
-## I'm a Student at [s19], part of the <img height="27" width="27" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/42.svg" />Network
+## I'm a Student at [s19], part of the <img height="27" width="27" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/42.svg" /> Network
 🔸 I'm currently learning C and C++. <br />
 🔸 I have some bases on Docker and K8's. <br />
 🔸 I'm aiming to learn Python, PHP and Unity in 2022. <br />
@@ -19,7 +19,7 @@
 
 ### Languages:
 
-<img height="27" width="27" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />
+<img height="27" width="27" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <!-- <img align="left" alt="C" width="27px" src="" /> -->
 <!-- <img align="left" alt="C" width="27px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png" /> -->
 <img align="left" alt="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" />
