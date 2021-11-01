@@ -38,6 +38,8 @@
 <br />
 <br />
 
+---
+
 [![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=namenega)](https://github.com/anuraghazra/github-readme-stats)
 
 [s19]: https://www.s19.be/
