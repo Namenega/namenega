@@ -7,8 +7,8 @@
 
 ### Media:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />][LinkedIn]
-[<img align="left" alt="Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][Github]
+[<img align="left" alt="LinkedIn" height="27" width="27px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />][LinkedIn]
+[<img align="left" alt="Github" height="27" width="27px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][Github]
 
 
 <br />
