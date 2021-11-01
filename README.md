@@ -18,8 +18,9 @@
 ### Languages:
 
 <img align="left" alt="C" width="27px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png" />
-<!-- <img align="left" alt="C++" width="22px" src="https://img2.freepng.fr/20180408/pew/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dec0be9.0824244915232440779669.jpg" /> -->
 <img align="left" alt="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="Docker" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWpPTdFnu7BUfzWQ_sNjsxJz1yKsVgd3_uw&usqp=CAU" />
+<br />
 <br />
 - More to come !
 
