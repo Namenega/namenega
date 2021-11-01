@@ -7,8 +7,10 @@
 
 ### Media:
 
-<!-- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/linkedin.svg" />] -->
-![alt text](https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg)[LinkedIn]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />][LinkedIn]
+
+
+<!-- ![alt text](https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg)[LinkedIn] -->
 
 <br />
 
