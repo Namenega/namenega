@@ -1,6 +1,6 @@
-### Hello there, I'm Nathan - aka Namenega
+### Hello there, I'm Nathan aka Namenega
 
-## I'm a Student at school19, part of the 42Network
+## I'm a Student at [s19], part of the 42Network
 - I'm currently learning C and C++.
 - I have some bases on Docker and K8's.
 - I'm aiming to learn Python, PHP and Unity in 2022.
@@ -33,5 +33,6 @@
 <img align="left" alt="Apple" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Apple_logo_dark_grey.svg/1724px-Apple_logo_dark_grey.svg.png" />
 <br />
 
+[s19]: https://www.s19.be/
 [LinkedIn]:	https://www.linkedin.com/in/nathan-menegalli-16a501223/
 [Github]:	https://github.com/Namenega
