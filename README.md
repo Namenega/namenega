@@ -29,6 +29,7 @@
 
 <img align="left" alt="VSC" width="22px" src="https://noblinkyblinkycom.files.wordpress.com/2017/09/vsc-logo.png" />
 <img align="left" alt="VIM" width="22px" src="https://e1.pngegg.com/pngimages/507/509/png-clipart-logo-linux-vim-editeur-de-texte-unix-commande-code-visual-studio-atom-editeur-de-code-source.png" />
+<img align="left" alt="VIM" width="22px" src="https://www.qcmquiz.com/images/Linux_logo.png" />
 <br />
 
 [LinkedIn]:	https://www.linkedin.com/in/nathan-menegalli-16a501223/
