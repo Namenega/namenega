@@ -34,8 +34,8 @@
 ## Media:
 
 
-[<img align="left" alt="LinkedIn" height="27" width="27px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />][LinkedIn]
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<!-- [<img align="left" alt="LinkedIn" height="27" width="27px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />][LinkedIn] -->
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[LinkedIn]
 [<img align="left" alt="Github" height="27" width="27px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][Github]
 <br />
 <br />
