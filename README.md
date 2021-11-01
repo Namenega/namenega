@@ -13,7 +13,15 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
+
+### Languages:
+
+<img align="left" alt="C" width="22px" src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png" />
+<img align="left" alt="C++" width="22px" src="https://img2.freepng.fr/20180408/pew/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dec0be9.0824244915232440779669.jpg" />
+<br />
+- More to come !
+
 
 
 [LinkedIn]:	https://www.linkedin.com/in/nathan-menegalli-16a501223/
