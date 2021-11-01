@@ -1,9 +1,9 @@
 ### Hello there, I'm Nathan aka Namenega
 
 ## I'm a Student at [s19], part of the 42Network
--🔸 I'm currently learning C and C++.
--🔸 I have some bases on Docker and K8's.
--🔸 I'm aiming to learn Python, PHP and Unity in 2022.
+- 🔸 I'm currently learning C and C++.
+- 🔸 I have some bases on Docker and K8's.
+- 🔸 I'm aiming to learn Python, PHP and Unity in 2022.
 
 ### Media:
 
