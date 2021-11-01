@@ -5,10 +5,6 @@
 🔸 I have some bases on Docker and K8's. <br />
 🔸 I'm aiming to learn Python, PHP and Unity in 2022. <br />
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namenega)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Media:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />][LinkedIn]
@@ -36,6 +32,8 @@
 <img align="left" alt="Linux" width="22px" src="https://www.qcmquiz.com/images/Linux_logo.png" />
 <img align="left" alt="Apple" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Apple_logo_dark_grey.svg/1724px-Apple_logo_dark_grey.svg.png" />
 <br />
+
+[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=namenega)](https://github.com/anuraghazra/github-readme-stats)
 
 [s19]: https://www.s19.be/
 [LinkedIn]:	https://www.linkedin.com/in/nathan-menegalli-16a501223/
