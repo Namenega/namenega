@@ -38,7 +38,9 @@
 
 ---
 
-[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=namenega)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=namenega)](https://github.com/anuraghazra/github-readme-stats) -->
+![Namenega's GitHub stats](https://github-readme-stats.vercel.app/api?username=namenega&show_icons=true&theme=tokyonight)
+
 
 [s19]: https://www.s19.be/
 [LinkedIn]:	https://www.linkedin.com/in/nathan-menegalli-16a501223/
