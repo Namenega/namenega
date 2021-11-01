@@ -1,17 +1,9 @@
 ### Hello there, I'm Nathan aka Namenega
 
-## I'm a Student at [s19], part of the <img height="27" width="27" src="https://avatars.githubusercontent.com/u/63114141?s=200&v=4" /> Network
+## Student at [s19], part of the <img height="22" width="22" src="https://avatars.githubusercontent.com/u/63114141?s=200&v=4" /> Network
 🔸 I'm currently learning C and C++. <br />
 🔸 I have some bases on Docker and K8's. <br />
 🔸 I'm aiming to learn Python, PHP and Unity in 2022. <br />
-
-### Media:
-
-[<img align="left" alt="LinkedIn" height="27" width="27px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />][LinkedIn]
-[<img align="left" alt="Github" height="27" width="27px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][Github]
-
-
-<br />
 
 <!-- Languages && Tools START-->
 
@@ -35,6 +27,14 @@
 <img align="left" alt="Apple" height="27" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
 <br />
 <!-- Languages && Tools END -->
+
+---
+
+## Media:
+
+[<img align="left" alt="LinkedIn" height="27" width="27px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />][LinkedIn]
+[<img align="left" alt="Github" height="27" width="27px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][Github]
+<br />
 
 ---
 
