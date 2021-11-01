@@ -39,7 +39,7 @@
 ---
 
 <!-- [![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=namenega)](https://github.com/anuraghazra/github-readme-stats) -->
-![Namenega's GitHub stats](https://github-readme-stats.vercel.app/api?username=namenega&show_icons=true&theme=tokyonight)
+![Namenega's GitHub stats](https://github-readme-stats.vercel.app/api?username=namenega&show_icons=true&theme=gruvbox)
 
 
 [s19]: https://www.s19.be/
