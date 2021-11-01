@@ -9,6 +9,7 @@
 
 ## Languages and Tools:
 
+
 ### Languages:
 
 <img align="left" alt="C++" height="27" width="27" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
@@ -28,13 +29,14 @@
 <br />
 <!-- Languages && Tools END -->
 
----
 
 ## Media:
+
 
 [<img align="left" alt="LinkedIn" height="27" width="27px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />][LinkedIn]
 [<img align="left" alt="Github" height="27" width="27px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][Github]
 <br />
+
 
 ---
 
