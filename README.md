@@ -32,6 +32,8 @@
 <img align="left" alt="Linux" width="22px" src="https://www.qcmquiz.com/images/Linux_logo.png" />
 <img align="left" alt="Apple" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Apple_logo_dark_grey.svg/1724px-Apple_logo_dark_grey.svg.png" />
 <br />
+<br />
+<br />
 
 [![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=namenega)](https://github.com/anuraghazra/github-readme-stats)
 
