@@ -20,9 +20,7 @@
 ### Languages:
 
 <img height="27" width="27" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<!-- <img align="left" alt="C" width="27px" src="" /> -->
-<!-- <img align="left" alt="C" width="27px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png" /> -->
-<img align="left" alt="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" />
+<img height="27" width="27" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 <img align="left" alt="Docker" width="27px" src="https://cdn.iconscout.com/icon/free/png-256/docker-2752207-2285024.png" />
 <img align="left" alt="Kubernetes" width="27px" src="https://miro.medium.com/max/800/1*WpKHLIDsJZgWKJe-SkOtcg.png" />
 <br />
