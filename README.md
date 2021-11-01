@@ -23,18 +23,16 @@
 <img align="left" alt="C++" height="27" width="27" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 <img align="left" alt="Docker" height="27" width="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Kubernetes" height="27" width="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<!-- <img align="left" alt="Docker" width="27px" src="https://cdn.iconscout.com/icon/free/png-256/docker-2752207-2285024.png" />
-<img align="left" alt="Kubernetes" width="27px" src="https://miro.medium.com/max/800/1*WpKHLIDsJZgWKJe-SkOtcg.png" /> -->
 <br />
 <br />
 - More to come !
 
 ### Tools:
 
-<img align="left" alt="VSC" width="22px" src="https://noblinkyblinkycom.files.wordpress.com/2017/09/vsc-logo.png" />
-<img align="left" alt="VIM" width="22px" src="https://e1.pngegg.com/pngimages/507/509/png-clipart-logo-linux-vim-editeur-de-texte-unix-commande-code-visual-studio-atom-editeur-de-code-source.png" />
-<img align="left" alt="Linux" width="22px" src="https://www.qcmquiz.com/images/Linux_logo.png" />
-<img align="left" alt="Apple" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Apple_logo_dark_grey.svg/1724px-Apple_logo_dark_grey.svg.png" />
+<img align="left" alt="VSC" height="27" width="22px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="VIM" height="27" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
+<img align="left" alt="Linux" height="27" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Apple" height="27" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
 <br />
 <!-- Languages && Tools END -->
 
