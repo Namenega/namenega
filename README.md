@@ -34,7 +34,7 @@
 ## Media:
 
 
-[<img align="left" alt="LinkedIn" height="27" width="27px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 <!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->
 [<img align="left" alt="Github" height="27" width="27px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][Github]
 <br />
