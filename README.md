@@ -19,7 +19,7 @@
 
 <img align="left" alt="C" width="22px" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png" />
 <!-- <img align="left" alt="C++" width="22px" src="https://img2.freepng.fr/20180408/pew/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dec0be9.0824244915232440779669.jpg" /> -->
-<img align="left" alt="C++" width="22px" src="https://img1.freepng.fr/20180425/wse/kisspng-the-c-programming-language-c-for-beginners-leave-the-material-5ae11a54c661f1.6476820215247017808126.jpg" />
+<img align="left" alt="C++" width="22px" src="https://fr.wikipedia.org/wiki/C%2B%2B#/media/Fichier:ISO_C++_Logo.svg" />
 <br />
 - More to come !
 
