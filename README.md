@@ -8,7 +8,7 @@
 ### Media:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />][LinkedIn]
-[<img align="left" alt="Github" width="22px" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner.png" />][Github]
+[<img align="left" alt="Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][Github]
 
 
 <br />
