@@ -5,6 +5,10 @@
 🔸 I have some bases on Docker and K8's. <br />
 🔸 I'm aiming to learn Python, PHP and Unity in 2022. <br />
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namenega)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Media:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" />][LinkedIn]
