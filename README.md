@@ -30,7 +30,7 @@
 <img align="left" alt="VSC" width="22px" src="https://noblinkyblinkycom.files.wordpress.com/2017/09/vsc-logo.png" />
 <img align="left" alt="VIM" width="22px" src="https://e1.pngegg.com/pngimages/507/509/png-clipart-logo-linux-vim-editeur-de-texte-unix-commande-code-visual-studio-atom-editeur-de-code-source.png" />
 <img align="left" alt="Linux" width="22px" src="https://www.qcmquiz.com/images/Linux_logo.png" />
-<img align="left" alt="Apple" width="22px" src="https://i.pinimg.com/736x/6b/21/b3/6b21b3a3bf070cbe36228931afb3aaeb.jpg" />
+<img align="left" alt="Apple" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Apple_logo_dark_grey.svg/1724px-Apple_logo_dark_grey.svg.png" />
 <br />
 
 [LinkedIn]:	https://www.linkedin.com/in/nathan-menegalli-16a501223/
