@@ -3,7 +3,6 @@
 ## Student at [s19], part of the <img height="22" width="22" src="https://avatars.githubusercontent.com/u/63114141?s=200&v=4" /> Network
 🔸 I'm currently learning C and C++. <br />
 🔸 I have some bases on Docker and K8's. <br />
-🔸 I'm aiming to learn Python, PHP and Unity in 2022. <br />
 
 <!-- Languages && Tools START-->
 
