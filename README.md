@@ -1,8 +1,10 @@
 ### Hello there, I'm Nathan aka Namenega
 
 ## Student at [s19], part of the <img height="22" width="22" src="https://avatars.githubusercontent.com/u/63114141?s=200&v=4" /> Network
-🔸 I'm currently learning C and C++. <br />
+🔸 C and C++. <br />
 🔸 I have some bases on Docker and K8's. <br />
+🔸 AWS ~Cloud Practitioner Level. <br />
+🔸 Python (boto3). <br />
 
 <!-- Languages && Tools START-->
 
@@ -15,6 +17,8 @@
 <img align="left" alt="C++" height="27" width="27" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 <img align="left" alt="Docker" height="27" width="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Kubernetes" height="27" width="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="AWS" height="27" width="27" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+<img align="left" alt="Python" height="27" width="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br />
 <br />
 - More to come !
