@@ -1,8 +1,10 @@
 ### Hello there, I'm Nathan aka Namenega
 
-## Student at [s19], part of the <img height="22" width="22" src="https://avatars.githubusercontent.com/u/63114141?s=200&v=4" /> Network
+## Alumni at [s19], part of the <img height="22" width="22" src="https://avatars.githubusercontent.com/u/63114141?s=200&v=4" /> Network
 🔸 C and C++. <br />
 🔸 I have some bases on Docker and K8's. <br />
+
+## Currently doing an internship at Deloitte in Cloud Cybersecurity
 🔸 AWS ~Cloud Practitioner Level. <br />
 🔸 Python (boto3). <br />
 
