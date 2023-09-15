@@ -4,9 +4,11 @@
 🔸 C and C++. <br />
 🔸 I have some bases on Docker and K8's. <br />
 
-## Currently doing an internship at Deloitte in Cloud Cybersecurity
+## Ex-intern at Deloitte in Cloud Cybersecurity
 🔸 AWS ~Cloud Practitioner Level. <br />
 🔸 Python (boto3). <br />
+
+## Security Consultant at Eviden
 
 <!-- Languages && Tools START-->
 
@@ -41,6 +43,7 @@
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img align="left" alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />][Github]
+<a href=”https://twitter.com/CybrComplx"><img src=”https://img.shields.io/twitter/follow/CybrComplex?label=Follow&style=social"></a>
 <br />
 <br />
 
