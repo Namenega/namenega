@@ -9,7 +9,7 @@
 🔸 Python (boto3). <br />
 
 ## Security Consultant at Eviden
-## Malware Analyst self-learning
+## Malware Analyst and Reverse Engineer self-learning
 
 <!-- Languages && Tools START-->
 
